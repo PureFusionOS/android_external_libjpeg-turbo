@@ -203,7 +203,6 @@ cc_binary {
         "-DBMP_SUPPORTED",
         "-DPPM_SUPPORTED",
         "-Wno-unused-parameter",
-        "-Werror",
     ],
 
     srcs: [
